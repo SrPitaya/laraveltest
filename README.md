@@ -1,2 +1,2 @@
-# laraveltest
-Solamente para fines educativos en laravel
+# Escrituras de pruebas en laravel
+## By LOS FOO!🤡
